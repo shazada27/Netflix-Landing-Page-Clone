@@ -15,7 +15,7 @@ A visually accurate, front-end web clone of the Netflix homepage. This project f
 *   CSS3
 
 🌐 Live Demo
-🔗 **[Click Here to view the live website!](Yahan_Apna_Live_Link_Paste_Karein)**
+   https://shazada27.github.io/Netflix-Landing-Page-Clone/
 
 👤 Author
 * Developed By: Muhammad Ahmad
